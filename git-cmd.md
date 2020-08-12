@@ -52,3 +52,11 @@ Local setting
 ### Branch
 *git checkout -b new_branch* checkout to a new branch
 *git checkout <branch_name>* checkout to an existing branch
+
+### Branch Merge
+*git merge <branch_name>* merge <branch_name> to master
+
+##Reset
+*git reset --soft* Repo to Index
+*git reset --mixed* Repo to Working Dir
+*git reset --hard* Repo to Trash
