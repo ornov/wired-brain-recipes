@@ -8,6 +8,17 @@ Local setting
 ### Initialize 
 *git init*
 
+### Status
+*git status*
+*git status -s* short version\
+
+## Log
+*git log*
+*git log -<count of commit>*
+*git log --oneline*
+*git log --stat*
+*git log --patch*
+
 ### Add
 *git add <filename>*
 *git add .*  All files
@@ -24,6 +35,7 @@ Local setting
 
 ###  Origin Push
 *git push -u origin master*
+*git push origin master*
 
 ### Diff
 *git diff*
