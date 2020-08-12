@@ -15,9 +15,17 @@ Local setting
 ### Commit
 *git commit -m "<COMMIT_MSG>"*
 
+### Checkout 
+*git checkout -- <file>...* to discard changes in the working directory
+
 ### Remote Origin Add
 *git remote add origin <URL>*
 
-### Origin Push
+###  Origin Push
 *git push -u origin master*
+
+### Diff
+*git diff*
+*git diff --staged*
+*git diff --staged --no-renames*
 
