@@ -12,6 +12,9 @@ Local setting
 *git add <filename>*
 *git add .*  All files
 
-###Commit
+### Commit
 *git commit -m "<COMMIT_MSG>"*
+
+### Remote Origin Add
+*git remote add origin <URL>*
 
