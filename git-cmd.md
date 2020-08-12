@@ -49,3 +49,6 @@ Local setting
 *git diff --staged*
 *git diff --staged --no-renames*
 
+### Branch
+*git checkout -b new_branch* checkout to a new branch
+*git checkout <branch_name>* checkout to an existing branch
