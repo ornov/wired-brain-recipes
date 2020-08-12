@@ -18,3 +18,6 @@ Local setting
 ### Remote Origin Add
 *git remote add origin <URL>*
 
+### Origin Push
+*git push -u origin master*
+
