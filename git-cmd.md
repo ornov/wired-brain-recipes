@@ -14,6 +14,7 @@ Local setting
 
 ### Commit
 *git commit -m "<COMMIT_MSG>"*
+*git commit -a -m "<COMMIT_MSG>"* to add and commit
 
 ### Checkout 
 *git checkout -- <file>...* to discard changes in the working directory
