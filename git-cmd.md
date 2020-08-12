@@ -8,3 +8,10 @@ Local setting
 ### Initialize 
 *git init*
 
+### sAdd
+*git add <filename>*
+*git add .*  All files
+
+###Commit
+*git commit -m "<COMMIT_MSG>"*
+
