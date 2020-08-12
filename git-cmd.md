@@ -8,7 +8,7 @@ Local setting
 ### Initialize 
 *git init*
 
-### sAdd
+### Add
 *git add <filename>*
 *git add .*  All files
 
