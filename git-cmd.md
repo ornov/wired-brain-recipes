@@ -23,6 +23,13 @@ Local setting
 *git add <filename>*
 *git add .*  All files
 
+## Remove
+*git rm <filename>* remove from everywhere
+*git rm --cached <filename>* to keep in the working dir
+
+## Rename
+*git mv <new_filename> <current_filename>*
+
 ### Commit
 *git commit -m "<COMMIT_MSG>"*
 *git commit -a -m "<COMMIT_MSG>"* to add and commit
