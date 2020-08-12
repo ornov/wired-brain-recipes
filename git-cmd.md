@@ -28,7 +28,7 @@ Local setting
 *git rm --cached <filename>* to keep in the working dir
 
 ## Rename
-*git mv <new_filename> <current_filename>*
+*git mv <current_filename> <new_filename>*
 
 ### Commit
 *git commit -m "<COMMIT_MSG>"*
